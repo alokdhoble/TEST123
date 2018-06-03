@@ -8,3 +8,4 @@
 4. Execute standalone 
 	1. cd <<source folder where jar, log4j.properties, input.properties available>>
 	2. java -jar fileproperty.jar
+5. This code is tested on Google Chrome(67.0.3396.62) only.
